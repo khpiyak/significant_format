@@ -1,6 +1,6 @@
 name: significant_format
 description: This package provides a SignificantFormat class which formats a double value in significant figure in roundup or truncate mode. If locale is provided in input, the number will be formatted with thousands separator (, or .) according to the locale provided.
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/khpiyak/significant_format
 
 environment:
